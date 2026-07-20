@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.fujitronix.twa",
+    "sha256_cert_fingerprints": ["E3:CF:41:6A:B6:2C:1E:C4:51:6B:48:FA:51:D3:21:82:B4:77:54:8B:FB:7A:EE:38:43:A4:8A:BC:73:ED:EB:E3"]
+  }
+}]
